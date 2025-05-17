@@ -37,6 +37,7 @@ def data():
             "price":3,
         }
     ]
+    
     total_pr_l=0
     for i in range(0,300):
         for coin in coins:
